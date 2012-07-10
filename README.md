@@ -2,5 +2,5 @@ Servia12-Repository
 ===================
 
 Servia12's Repository
-Servia12: Captain
-atrain99: First Mate
+Servia12: General Secretary
+Atrain99: Some other dude
